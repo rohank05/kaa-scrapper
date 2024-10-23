@@ -1,5 +1,5 @@
 const config: any = {
-  baseUrl: 'https://kickassanime.mx/api',
+  baseUrl: 'https://www1.kickassanime.mx/api',
 };
 
 export default config;

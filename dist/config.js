@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const config = {
-    baseUrl: 'https://kickassanime.mx/api',
+    baseUrl: 'https://www1.kickassanime.mx/api',
 };
 exports.default = config;
